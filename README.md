@@ -1,3 +1,5 @@
+https://github.com/isralr/Colecci-n-ejercicios-Israel-Lara.git
+
 # Colecci-n-ejercicios-Israel-Lara
 Enunciado de los ejercicios: Ejercicios por parejas/trios con un único repositorio en Github
 Declaración de variables (ENTREGA OBLIGATORIA 05.11.2024)
