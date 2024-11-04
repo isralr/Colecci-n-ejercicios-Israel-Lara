@@ -7,9 +7,7 @@
 
 
 
-class ejercicio3 {
-
-};
+void BucleFor();
 
 
 
