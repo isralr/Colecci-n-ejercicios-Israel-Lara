@@ -6,10 +6,7 @@
 #define EJERCICIO5_H
 
 
-
-class ejercicio5 {
-
-};
+void funcion();
 
 
 
