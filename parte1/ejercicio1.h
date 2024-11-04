@@ -6,10 +6,7 @@
 #define EJERCICIO1_H
 
 
-
-class ejercicio1 {
-
-};
+void identificacion();
 
 
 
