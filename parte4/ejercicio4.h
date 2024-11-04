@@ -7,9 +7,7 @@
 
 
 
-class ejercicio4 {
-
-};
+void array();
 
 
 
